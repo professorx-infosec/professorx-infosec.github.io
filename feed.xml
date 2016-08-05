@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>{ Professor Network }</title>
+		<description>Blog and website of Xavier Salinas</description>
+		<link>https://panossakkos.github.io</link>
+		<atom:link href="https://panossakkos.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Blog</title>
+				
+				
+					<description>&lt;p&gt;Just might use this blog..maybe?&lt;/p&gt;
+</description>
+				
+				<pubDate>Fri, 05 Aug 2016 00:00:00 -0400</pubDate>
+				<link>https://panossakkos.github.io/security/2016/08/05/blog.html</link>
+				<guid isPermaLink="true">https://panossakkos.github.io/security/2016/08/05/blog.html</guid>
+			</item>
+		
+	</channel>
+</rss>
